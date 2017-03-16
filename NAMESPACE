@@ -1,0 +1,3 @@
+export(wordpred)
+importFrom("utils", "head", "tail")
+import("data.table")

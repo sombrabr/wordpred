@@ -1,0 +1,13 @@
+Package: wordpred
+Type: Package
+Title: Word Prediction
+Version: 1.0
+Date: 2017-03-12
+Author: Eduardo Bortoluzzi Jr
+Maintainer: Eduardo Bortoluzzi Jr <sombrabr@gmail.com>
+Description: Prediction algorithm create for the Cousera's Data Science
+    Capstone on building a word predictor. Given a sentence or a vector of
+    character, it will split each item on space a use the last 3 words as index
+    to a data set created for English word prodiction.
+License: GPL-3
+Depends: R (>= 2.10), data.table
